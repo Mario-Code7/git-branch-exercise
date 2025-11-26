@@ -6,7 +6,7 @@ public class TwoTimesOneMinusOneEqualsOne {
     public static void main(String[] args) {
         final Scanner myScanner = new Scanner(System.in);
 
-        System.out.println("Ain't got no flying shoes");
+        System.out.println("A little wuuuu yeaahhh!");
         myScanner.nextLine();
 
     }
